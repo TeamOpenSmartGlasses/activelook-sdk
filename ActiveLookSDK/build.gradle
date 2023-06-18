@@ -11,7 +11,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        minSdk 28
+        minSdk 29
         targetSdk 32
         versionCode sdkVersionCode
         versionName "$sdkVersionName"
